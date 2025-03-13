@@ -23,103 +23,103 @@ let produto = [
     {
         id: 2,
         nome: 'T-Shirt Feminina',
-        imagem: '2.PNG',
+        imagem: '2.png',
         preco: 35
     },
     {
         id: 3,
         nome: 'T-Shirt Feminina',
-        imagem: '3.PNG',
+        imagem: '3.png',
         preco: 35
     },
     {
         id: 4,
         nome: 'T-Shirt Feminina',
-        imagem: '4.PNG',
+        imagem: '4.png',
         preco: 35
     },
     {
         id: 5,
         nome: 'T-Shirt Feminina',
-        imagem: '5.PNG',
+        imagem: '5.png',
         preco: 35
     },
     {
         id: 6,
         nome: 'T-Shirt Feminina',
-        imagem: '6.PNG',
+        imagem: '6.png',
         preco: 35
     },
     {
         id: 7,
         nome: 'T-Shirt Feminina',
-        imagem: '7.PNG',
+        imagem: '7.png',
         preco: 35
     },
     {
         id: 8,
         nome: 'T-Shirt Feminina',
-        imagem: '8.PNG',
+        imagem: '8.png',
         preco: 35
     },
     {
         id: 9,
         nome: 'T-Shirt Feminina',
-        imagem: '9.PNG',
+        imagem: '9.png',
         preco: 35
     },
     {
         id: 10,
         nome: 'T-Shirt Feminina',
-        imagem: '10.PNG',
+        imagem: '10.png',
         preco: 35
     },
     {
         id: 11,
         nome: 'T-Shirt Feminina',
-        imagem: '11.PNG',
+        imagem: '11.png',
         preco: 35
     }, 
     {
         id: 12,
         nome: 'T-Shirt Feminina',
-        imagem: '12.PNG',
+        imagem: '12.png',
         preco: 35
     },
     {
         id: 13,
         nome: 'T-Shirt Feminina',
-        imagem: '13.PNG',
+        imagem: '13.png',
         preco: 35
     },
     {
         id: 14,
         nome: 'T-Shirt Feminina',
-        imagem: '14.PNG',
+        imagem: '14.png',
         preco: 35
     },
     {
         id: 15,
         nome: 'T-Shirt Feminina',
-        imagem: '15.PNG',
+        imagem: '15.png',
         preco: 35
     },
     {
         id: 16,
         nome: 'T-Shirt Feminina',
-        imagem: '16.PNG',
+        imagem: '16.png',
         preco: 35
     },
     {
         id: 17,
         nome: 'T-Shirt Feminina',
-        imagem: '17.PNG',
+        imagem: '17.png',
         preco: 35
     },
     {
         id: 18,
         nome: 'T-Shirt Feminina',
-        imagem: '18.PNG',
+        imagem: '18.png',
         preco: 35
     }
 ];
